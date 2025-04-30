@@ -1,4 +1,4 @@
----
+Infinix Hot 11s---
 manufacturer:
     - general
 ---
